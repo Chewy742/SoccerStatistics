@@ -22,6 +22,8 @@ Within the folder Pass Map Generators, there contains various generators for dif
 
 Within the folder Python Futbol, there are trials and basic tests for various different visuals - bar charts, scatter plots done with the help of FC Python tutorials tht can be found at https://fcpython.com/
 
+Within the folder ConvexHulls, there is a notebook containing a version for a convex hull generator. 
+
 
 
 
