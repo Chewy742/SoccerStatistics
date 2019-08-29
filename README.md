@@ -11,6 +11,7 @@ Here's one of Paul Pogba, a French midfielder, during their World Cup win over C
 
 ![PaulPogbaPlot](PogbaWCFinal.png)
 
+### Convex Hulls
 Convex Hulls- somewhat popular within the amateur data visuals community, convex hulls allow you to see the area a player spans with a specific action. Defensive pressures, when a defender comes nearby and "puts pressure" on an attacker, is an example of this kind of action. Here's a comparison of the World Cup Final midfields, and where they had defensive pressures
 
 ![DefensivePressures](FranceVCroatiaMidfieldPressures.png)
